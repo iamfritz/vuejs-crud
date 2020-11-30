@@ -1,5 +1,10 @@
 # vuecrud
 
+## Basic CRUD application
+```
+npm install
+```
+
 ## Project setup
 ```
 npm install
@@ -26,4 +31,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Resources
 vue routes
+```
 jsonplaceholder
+```
